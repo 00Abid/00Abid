@@ -1,7 +1,7 @@
-# Hi there, I'm Abid Khan  
+# Hi, I'm Abid Khan  
 
  **Frontend Developer** <br>
-  | Clean code, creative design |
+|Clean code, creative design|
 
 ---
 
