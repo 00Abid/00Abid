@@ -1,15 +1,7 @@
 # Hi there, I'm Abid Khan  
 
- **Frontend Developer** 
-  Clean code, creative design | Turning ideas into smooth web apps
-
----
-
-## About Me
--  I'm a frontend developer passionate about creating **responsive, user-friendly websites**  
--  I’m always exploring new tools & technologies  
--  Open to **Frontend Internships & Entry-Level Developer Roles**  
--  I value **collaboration, clear communication, and continuous learning**  
+ **Frontend Developer** <br>
+  | Clean code, creative design |
 
 ---
 
