@@ -24,8 +24,8 @@
 ---
 ## GitHub Stats:
 ![Abid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=00Abid&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00Abid&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=00Abid&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00Abid&layout=compact&theme=radical&cache_seconds=0)!
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=00Abid&theme=radical)  
 
 ---
 
