@@ -1,7 +1,7 @@
 # Hi, I'm Abid Khan  
 
- **Frontend Developer** <br>
-| Clean code, creative design |
+ ## Frontend Developer
+ ```Clean code | Creative design ```
 
 ---
 
@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 
 ---
 ## GitHub Stats:
