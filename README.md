@@ -62,7 +62,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Abid&layout=compact&theme=dark" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=00Abid&theme=dark" height="160"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=00Abid&theme=react-dark&hide_border=true" height="160"/>
-<img src="https://img.shields.io/github/followers/00Abid?label=Followers&style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/github/followers/00Abid?label=Followers&style=for-the-badge&color=0DB4F3&labelColor=000000" />
 
 
 ---
