@@ -42,6 +42,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-F7931A?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-0f9d58?style=for-the-badge&logo=googletagmanager&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Lighthouse-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/PageSpeed_Insights-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bing_Webmaster_Tools-008373?style=for-the-badge&logo=bing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semrush-FF3A00?style=for-the-badge&logo=semrush&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ahrefs-0f0f0f?style=for-the-badge&logo=ahrefs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Moz-FF5733?style=for-the-badge&logo=moz&logoColor=white" />
 </p>
 
 
@@ -49,11 +58,12 @@
 
 ### 📊 GitHub Insights
 
-<img src="https://github-readme-stats.vercel.app/api?username=00Abid&show_icons=true&theme=blue&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Abid&layout=compact&theme=blue" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=00Abid&theme=blue" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=00Abid&show_icons=true&theme=dark&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Abid&layout=compact&theme=dark" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=00Abid&theme=dark" height="160"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=00Abid&theme=react-dark&hide_border=true" height="160"/>
-<img src="https://img.shields.io/github/followers/00Abid?label=Followers&style=for-the-badge&color=00BFFF" />
+<img src="https://img.shields.io/github/followers/00Abid?label=Followers&style=for-the-badge&color=000000" />
+
 
 ---
 
