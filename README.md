@@ -70,4 +70,3 @@
 ### 👀 Profile Visits
 
 <img src="https://komarev.com/ghpvc/?username=00Abid&label=Profile%20Views&style=for-the-badge&color=0DB4F3&labelColor=000000" alt="Profile Views"/>
-
