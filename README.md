@@ -1,10 +1,12 @@
 <h1>👋 Hey, I'm <span style="color:#00BFFF;">Abid Khan</span></h1>
 
 <!-- First Typing Animation: Role -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=800&color=00BFFF&vCenter=true&width=400&lines=Frontend+Developer" alt="Typing Role" />
+<!-- Typing Role -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=800&color=00BFFF&vCenter=true&width=450&lines=Frontend+Developer+%26+SEO+Specialist" alt="Typing Role" />
 
-<!-- Second Typing Animation: Tagline -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=800&color=00BFFF&vCenter=true&width=500&lines=Clean+Code+%7C+Creative+UI;Building+Web+Experiences+with+React+%26+Next.js" alt="Typing Tagline" />
+<!-- Typing Tagline -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=800&color=00BFFF&vCenter=true&width=520&lines=Creating+Fast%2C+Search-Optimized+Websites;Technical+SEO+%7C+Web+Performance+%7C+Clean+Code" alt="Typing Tagline" />
+
 
 ---
 
