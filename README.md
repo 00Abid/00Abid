@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=800&color=00BFFF&vCenter=true&width=450&lines=Frontend+Developer+%26+SEO+Specialist" alt="Typing Role" />
 
 <!-- Typing Tagline -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=800&color=00BFFF&vCenter=true&width=520&Technical+SEO+%7C+Web+Performance+%7C+Clean+Code" alt="Typing Tagline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=800&color=00BFFF&vCenter=true&width=520&lines=Technical+SEO+%26+Web+Performance;Clean+Code+%26+Optimization" alt="Typing Tagline" />
 
 
 ---
