@@ -78,3 +78,14 @@
 ### 👀 Profile Visits
 
 <img src="https://komarev.com/ghpvc/?username=00Abid&label=Profile%20Views&style=for-the-badge&color=0DB4F3&labelColor=000000" alt="Profile Views"/>
+
+---
+### 📬 Let’s talk real Technical SEO (no fluff, no hand-holding)
+
+- Looking for **Junior / Mid-Level Remote Technical SEO** roles  
+- SEO Engineer • Core Web Vitals • Schema • Crawl & Indexing • Site Speed  
+- I fix SEO in code → no developer dependency, no excuses  
+- Mumbai-based • 100% remote • Available immediately  
+- DMs wide open – let’s talk 100 Lighthouse projects and real GSC wins
+
+Recruiters, agencies, founders, if you need someone who ships 95-100 Lighthouse + full schema stacks from day 1, message me.
