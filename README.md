@@ -1,14 +1,20 @@
-<h1>👋 Hey, I'm <span style="color:#00BFFF;">Abid Khan</span></h1>
+# 👋 Hey, I'm <span style="color:#00BFFF;">Abid Khan</span>
 
-<!-- First Typing Animation: Role -->
 <!-- Typing Role -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=800&color=00BFFF&vCenter=true&width=450&lines=Frontend+Developer+%26+SEO+Specialist" alt="Typing Role" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&vCenter=true&width=600&lines=Junior+Technical+SEO+Specialist;Next.js+%7C+Core+Web+Vitals+%7C+Schema+Expert" alt="Typing SVG" />
 
 <!-- Typing Tagline -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=800&color=00BFFF&vCenter=true&width=520&lines=Technical+SEO+%26+Web+Performance;Clean+Code+%26+Optimization" alt="Typing Tagline" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=00BFFF&vCenter=true&width=700&lines=I+fix+crawl+errors%2C+LCP%2C+CLS+and+schema+in+code;No+developer+handoff+needed;100+Lighthouse+or+I+don’t+sleep" alt="Typing SVG" />
 
 ---
+### 🚀 What I actually ship
+- Next.js sites with **100 Lighthouse mobile** out of the box  
+- Full schema stacks (JSON-LD, no dependencies)  
+- Core Web Vitals fixes that move the needle in GSC  
+- Crawl + indexing fixes without begging devs
+--
+
+
 
 ### 🌐 Socials
 
